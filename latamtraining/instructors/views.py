@@ -6,7 +6,7 @@ from .models import Instructor, Language
 
 def index(request):
     return HttpResponse(
-        "Hello candidate!<br><br> Check the details for this test on <a href=https://github.com/leocosta-io/test-django/blob/main/README.md>https://github.com/leocosta-io/test-django/blob/main/README.md</a> or on the file README.md in your project."
+        "Hello candidate!<br><br> Check the details for this test on <a href=https://github.com/leocosta-io/test-django-public>https://github.com/leocosta-io/test-django-public</a> or on the file README.md in your project."
     )
 
 
