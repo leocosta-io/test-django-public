@@ -73,11 +73,7 @@ python manage.py test
 When you have finished all tasks it should print something similar to this:
 
 ```text
-Operations to perform:
-  Apply all migrations: admin, auth, contenttypes, instructors, sessions
-Running migrations:
-  No migrations to apply.
-(test-django) [lcosta@lcosta latamtraining]$ python manage.py test 
+$ python manage.py test 
 Found 5 test(s).
 Creating test database for alias 'default'...
 System check identified no issues (0 silenced).
