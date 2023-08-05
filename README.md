@@ -1,5 +1,7 @@
 # Test Django
 
+This is a small exam created to assess candidates to an internship role at Red Hat.
+
 ## Initial Information
 
 ### App overview
